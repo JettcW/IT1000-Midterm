@@ -1,6 +1,6 @@
 # Home
 
-My name is _Jett Wooten_, I am currently attending the university of missouri and majoring in information technology.
+My name is _Jett Wooten_, I am currently attending the University of Missouri and majoring in Information Technology.
 
 - [About Me](./aboutme.md)      
 - [Goals](./goals.md)
