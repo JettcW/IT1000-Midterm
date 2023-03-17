@@ -1,3 +1,9 @@
-# Test
+# Home
 
-[test link](./test.md "test file in github")
+My name is _Jett Wooten_, I am currently attending the university of missouri and majoring in information technology.
+
+- [About Me](./aboutme.md "About Me")      
+- [Goals](./goals.md "Goals")
+- [School](./school.md "School")
+- [Sports](./sports.md "Sports")
+- Placeholder
