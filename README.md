@@ -6,4 +6,4 @@ My name is _Jett Wooten_, I am currently attending the university of missouri an
 - [Goals](./goals.md "Goals")
 - [School](./school.md "School")
 - [Travel](./travel.md "Travel")
-- Placeholder
+
